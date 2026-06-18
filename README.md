@@ -77,9 +77,11 @@ Business Insights & Recommendations
 
 | Page 1 — Employee Overview | 
 |---|---|
-| ![Dashboard Page 1]<img width="1427" height="802" alt="Screenshot 2026-06-18 020318" src="https://github.com/user-attachments/assets/e9946090-8fee-4092-9208-ad6807d29be5" />
+| ![Dashboard Page 1]<img width="1432" height="796" alt="Screenshot 2026-06-18 140419" src="https://github.com/user-attachments/assets/34542429-075f-4e33-a86f-e77757e7a754" />
+ 
 Page 2 — Performance Analysis |
-) | ![Dashboard Page 2]<img width="1430" height="803" alt="Screenshot 2026-06-18 021220" src="https://github.com/user-attachments/assets/0358e22c-c982-4efe-a735-c23982da4baf" />
+) | ![Dashboard Page 2]<img width="1427" height="802" alt="Screenshot 2026-06-18 140451" src="https://github.com/user-attachments/assets/510283e9-129c-4bea-847e-b239f675dd2f" />
+ 
 
 
 ---
